@@ -17,7 +17,8 @@ This project showcases a futuristic web experience with dynamic visuals, NFT int
 - 🦾 **Responsive Design** – Optimized for screens up to 750x1200 and beyond.
 - 🧱 **Boxicons Integration** – For modern social and feature icons.
 - 🌐 **Custom Font & Gradient Animations** – Enhancing visual flair and branding.
-
+- 
+![Image](https://github.com/user-attachments/assets/64e46ab5-06b2-4cbd-b750-4a6e98a17eb7)
 ---
 
 ## 📁 Project Structure
@@ -32,5 +33,3 @@ zentry/
 ├── videos/               # Hero and card MP4 files
 │   └── hero-1.mp4, feature-1.mp4, ...
 └── README.md             # This file
-![Image](https://github.com/user-attachments/assets/64e46ab5-06b2-4cbd-b750-4a6e98a17eb7)
-
