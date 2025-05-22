@@ -32,3 +32,5 @@ zentry/
 ├── videos/               # Hero and card MP4 files
 │   └── hero-1.mp4, feature-1.mp4, ...
 └── README.md             # This file
+![thumbnail](https://github.com/user-attachments/assets/b3a73ed2-a1d3-4119-aabc-f8a7de15d1fc)
+
